@@ -1,0 +1,21 @@
+.appBar {
+    padding: 5px;
+    background-color:  #3f51b5;
+    
+}
+.toolBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.auth-button {
+    display: inline-block; 
+    padding: 0px 3px 0px 3px;
+    margin: 0px;
+    margin-right: 5px;
+}
+.searchBox{
+    text-align: center;
+    padding: 5px 20px 5px 20px;
+}

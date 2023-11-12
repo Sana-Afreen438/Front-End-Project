@@ -1,0 +1,8 @@
+
+.homeText{
+    color: brown;
+    height: 80%;
+    display: flex;
+    text-align: center;
+    font-Family: 'Borel, sans-serif',
+}
